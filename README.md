@@ -73,7 +73,6 @@ Explore my skills, projects and frontend development journey.
 ---
 
 ## 📊 GitHub Activity
-## 📊 GitHub Activity
 
 GitHub par mere latest projects aur contribution activity dekhein.
 
