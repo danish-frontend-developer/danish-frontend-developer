@@ -55,6 +55,12 @@ A dark-themed storefront project featuring a premium visual style and interactiv
 
 ### 5. Frontend Developer Portfolio
 My portfolio repository for presenting my skills, projects, and frontend development journey.
+### 5. Frontend Developer Portfolio 💻
+
+My personal portfolio showcasing my frontend skills, projects, and development journey.
+
+- 🌐 **Live Website:** [Visit My Portfolio](https://danish-frontend-developer.github.io/danish-frontend-portfolio/)
+- 💻 **Source Code:** [View on GitHub](https://github.com/danish-frontend-developer/danish-frontend-portfolio)
 
 - [View Portfolio Repository](https://github.com/danish-frontend-developer/danish-frontend-portfolio)
 
