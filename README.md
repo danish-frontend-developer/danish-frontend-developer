@@ -3,11 +3,12 @@
 
 # Hi, I'm Md Danish Alam 👋
 
-### Frontend Developer | Fresher
+### Aspiring Frontend Developer
 
-I create responsive and user-friendly websites using HTML, CSS and JavaScript.
+I build responsive and user-friendly websites using HTML, CSS, and JavaScript. I enjoy creating practical projects and improving my frontend development skills.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/danish-frontend-developer)
+[![GitHub](https://img.shields.io/badge/GitHub-My_Profile-181717?style=for-the-badge&logo=github)](https://github.com/danish-frontend-developer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-danish-alam-935b29326/)
 
 </div>
 
@@ -15,56 +16,71 @@ I create responsive and user-friendly websites using HTML, CSS and JavaScript.
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently learning JavaScript and React
-- 💻 Practicing frontend development by building projects
-- 🎨 Interested in responsive design and clean user interfaces
-- 🎯 Goal: Become a professional Frontend Developer
+- 🌱 Currently improving my JavaScript skills and learning React
+- 💻 Building projects to practise frontend development
+- 📱 Interested in responsive websites and clean UI design
+- 🎯 Working toward an entry-level Frontend Developer job
 - 📍 Bihar, India
 
-## 🛠️ My Skills
+## 🛠️ Skills & Tools
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Learning" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![React Learning](https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-## 🚀 Featured Project
+## 🚀 My Projects
 
-### Smart Task Manager
+### 1. FitForge — Gym & Fitness Website
 
-A task management project described in my repository, built with HTML, CSS and JavaScript.
+A fitness storefront demo with product search, sorting, quick view, shopping cart, and local storage.
 
-- Add and delete tasks
-- Mark tasks as completed
-- Filter tasks by category
-- LocalStorage support
+- 🌐 [Live Website](https://danish-frontend-developer.github.io/FitForge-Gym-Fitness-E-commerce-Website/)
+- 💻 [Source Code](https://github.com/danish-frontend-developer/FitForge-Gym-Fitness-E-commerce-Website)
 
-**[View My Repository →](https://github.com/danish-frontend-developer/my-portfolio)**
+### 2. WanderGo — Travel Website
 
-## 📈 My Goals
+A responsive travel website with destination search, tour filters, price sorting, and a demo booking form.
 
-- Improve my JavaScript skills
-- Learn React and build more projects
-- Create responsive websites
-- Prepare for a Frontend Developer role
+- 🌐 [Live Website](https://danish-frontend-developer.github.io/wandergo-travel-project/)
+- 💻 [Source Code](https://github.com/danish-frontend-developer/wandergo-travel-project)
 
-## 🤝 Connect With Me
+### 3. FocusFlow — Study Planner
 
-- GitHub: [@danish-frontend-developer](https://github.com/danish-frontend-developer)
+A study planner featuring task management, priorities, a focus timer, progress statistics, and light/dark themes.
+
+- 🌐 [Live Website](https://danish-frontend-developer.github.io/-focusflow-study-planner/)
+- 💻 [Source Code](https://github.com/danish-frontend-developer/-focusflow-study-planner)
+
+### 4. NOIR — Dark Premium Store
+
+A dark-themed shopping website demo with product filtering, quick view, and cart features.
+
+- 💻 [Source Code](https://github.com/danish-frontend-developer/noir-dark-premium.)
+
+## 🎯 My Goals
+
+- Strengthen JavaScript fundamentals
+- Build more responsive and accessible projects
+- Learn React and create React projects
+- Prepare for a Junior Frontend Developer role
+
+## 🤝 Contact Me
+
+- **GitHub:** [danish-frontend-developer](https://github.com/danish-frontend-developer)
+- **LinkedIn:** [Md Danish Alam](https://www.linkedin.com/in/md-danish-alam-935b29326/)
+- **Email:** mddanish74840@gmail.com
 
 ---
 
 <div align="center">
-my website https://danish-frontend-developer.github.io/-focusflow-study-planner/
 
 **Thanks for visiting my profile! ⭐**
 
 </div>
-## Hi there 👋
+
 
 <!--
 **danish-frontend-developer/danish-frontend-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
